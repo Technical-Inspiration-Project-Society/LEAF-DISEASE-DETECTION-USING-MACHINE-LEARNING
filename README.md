@@ -1,4 +1,6 @@
 # LEAF_DISEASE_DETECTION_USING_MACHINE_LEARNING
+![image](https://github.com/Technical-Inspiration-Project-Society/LEAF_DISEASE_DETECTION_USING_MACHINE_LEARNING/assets/118530992/4bee0f14-e289-47bd-b1c1-05d4c69b50c4)
+
 
 ## Introduction:
 
@@ -29,4 +31,5 @@ Moreover, farmers, particularly small-scale ones, may lack access to expertise o
 - Efficient Solutions: Provides targeted solutions to combat specific diseases, optimizing plant health.
 - User-friendly Interface: Offers a simple and intuitive interface for users to interact with the system easily.
 
-  
+## Connect
+To know the detailed explanation and code of the project, please email tipsrndprojects@gmail.com.
