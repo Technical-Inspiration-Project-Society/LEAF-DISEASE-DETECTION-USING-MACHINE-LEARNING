@@ -1,5 +1,6 @@
 # LEAF_DISEASE_DETECTION_USING_MACHINE_LEARNING
-![image](https://github.com/Technical-Inspiration-Project-Society/LEAF_DISEASE_DETECTION_USING_MACHINE_LEARNING/assets/118530992/4bee0f14-e289-47bd-b1c1-05d4c69b50c4)
+![image](https://github.com/Technical-Inspiration-Project-Society/LEAF_DISEASE_DETECTION_USING_MACHINE_LEARNING/assets/118530992/f41fc0f8-e469-43ff-86c6-53c458d96006)
+
 
 
 ## Introduction:
